@@ -27,7 +27,7 @@ Adds two integers taken as URL path parameters
 }
 ```
 
-### `http://localhost:8000/items/1234567890?q=foo&s=bar
+### `http://localhost:8000/items/1234567890?q=foo&s=bar`
 
 Takes an integer path parameter `1234567890` as well as two query string parameters `foo` and `bar`.
 
